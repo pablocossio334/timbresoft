@@ -59,6 +59,6 @@ public class ConexxionUsb {
         }
 
         // Enviar mensaje a la micro:bit
-        enviarMensaje(puerto, "culito$"); // El delimitador es '$', asegúrate de que el mensaje sea correcto
+        enviarMensaje(puerto, "hola$"); // El delimitador es '$', asegúrate de que el mensaje sea correcto
     }
 }
